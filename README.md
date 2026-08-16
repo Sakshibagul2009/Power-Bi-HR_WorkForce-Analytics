@@ -82,8 +82,7 @@ The Workforce Overview page provides a complete summary of the organization's wo
 
 ### 📷 Dashboard Preview
 
-![Workforce Overview](Output/WorkForce%20Overview.png)
-
+![Workforce Overview](Output/WorkForce-Overview.png)
 
 ---
 
@@ -109,7 +108,7 @@ The Attrition Analysis page focuses on employee attrition, hiring trends and wor
 
 ### 📷 Dashboard Preview
 
-![Attrition Analysis](Output/Attrition%20Analysis.png)
+![Attrition Analysis](Output/Attrition-Analysis.png)
 
 
 # 3️⃣ Compensation Analysis
