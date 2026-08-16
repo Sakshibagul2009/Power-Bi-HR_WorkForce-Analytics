@@ -130,6 +130,7 @@ The Compensation page provides insights into salary distribution, departmental c
 ### 📷 Dashboard Preview
 
 
+![Compensation](./Output/Compensation.png)
 
 
 # 🧮 DAX Measures
