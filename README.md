@@ -1,4 +1,4 @@
-# Power-Bi-HR_WorkForce-Analytics-# 📊 HR Workforce Analytics – Power BI Dashboard
+## 📊 HR Workforce Analytics – Power BI Dashboard
 
 An interactive **HR Workforce Analytics dashboard built using Microsoft Power BI** to analyze employee headcount, attrition, compensation, hiring trends, performance, career levels, and training investment.
 
